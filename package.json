@@ -1,0 +1,12 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ar7nic/testingJs.git",
+  "author": "Ar7nic <ar7nic@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1"
+  },
+  "scripts": {}
+}
